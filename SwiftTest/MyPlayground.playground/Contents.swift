@@ -3,3 +3,4 @@
 import UIKit
 
 var str = "Hello, playground"
+let letStr = "hello 常量"
